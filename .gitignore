@@ -10,9 +10,3 @@
 *.rar
 *.tar
 *.zip
-
-# Images #
-##########
-*.png
-*.jpg
-*.svg
